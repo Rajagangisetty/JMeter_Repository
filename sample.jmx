@@ -1162,7 +1162,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">C:\ProgramData\Jenkins\.jenkins\workspace\JMetet_Test1\1.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
